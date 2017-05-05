@@ -1,0 +1,1240 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+eXo Platform Public Distributions - Community Tomcat Standalone
+
+This product includes/uses software developed by 'an unknown organization'
+  - AntLR Parser Generator (http://www.antlr.org/)
+      Artifact: antlr:antlr:jar:2.7.7
+      License: BSD License  (http://www.antlr.org/license.html)
+  - AOP alliance (http://aopalliance.sourceforge.net)
+      Artifact: aopalliance:aopalliance:jar:1.0
+      License: Public Domain 
+  - c3p0:JDBC DataSources/Resource Pools (http://c3p0.sourceforge.net)
+      Artifact: c3p0:c3p0:jar:0.9.1.1
+      License: GNU LESSER GENERAL PUBLIC LICENSE  (http://www.gnu.org/licenses/lgpl.txt)
+  - Code Generation Library (http://cglib.sourceforge.net/)
+      Artifact: cglib:cglib:jar:2.2
+      License: ASF 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - XMP Library for Java (http://www.adobe.com/devnet/xmp.html)
+      Artifact: com.adobe.xmp:xmpcore:jar:5.1.2
+      License: The BSD License  (http://www.adobe.com/devnet/xmp/library/eula-xmp-library-java.html)
+  - metadata-extractor (http://code.google.com/p/metadata-extractor/)
+      Artifact: com.drewnoakes:metadata-extractor:jar:2.6.2
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - FindBugs-Annotations (http://findbugs.sourceforge.net/)
+      Artifact: com.google.code.findbugs:annotations:jar:2.0.1
+      License: GNU Lesser Public License  (http://www.gnu.org/licenses/lgpl.html)
+  - FindBugs-jsr305 (http://findbugs.sourceforge.net/)
+      Artifact: com.google.code.findbugs:jsr305:jar:1.3.9
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Java 1.5 Parser and AST (http://code.google.com/p/javaparser/)
+      Artifact: com.google.code.javaparser:javaparser:jar:1.0.8
+      License: GNU Lesser General Public License  (http://www.gnu.org/licenses/lgpl.html)
+  - Guava: Google Core Libraries for Java (http://code.google.com/p/guava-libraries/guava)
+      Artifact: com.google.guava:guava:jar:11.0.2
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - gwt-servlet (http://www.gwtproject.org/gwt-servlet/)
+      Artifact: com.google.gwt:gwt-servlet:jar:2.6.1
+      License: GWT Terms  (http://www.gwtproject.org/terms.html)
+  - JSON.simple (http://code.google.com/p/json-simple/)
+      Artifact: com.googlecode.json-simple:json-simple:bundle:1.1.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - juniversalchardet (http://juniversalchardet.googlecode.com/)
+      Artifact: com.googlecode.juniversalchardet:juniversalchardet:jar:1.0.3
+      License: Mozilla Public License 1.1 (MPL 1.1)  (http://www.mozilla.org/MPL/MPL-1.1.html)
+  - ISO Parser (http://code.google.com/p/mp4parser/)
+      Artifact: com.googlecode.mp4parser:isoparser:jar:1.0-RC-1
+      License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - icu4j 
+      Artifact: com.ibm.icu:icu4j:jar:3.8.1
+
+  - JHLabs Image Processing Filters (http://www.jhlabs.com/ip/index.html)
+      Artifact: com.jhlabs:filters:jar:2.0.235
+      License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - iText, a Free Java-PDF library (http://www.lowagie.com/iText/)
+      Artifact: com.lowagie:itext:jar:2.1.7
+      License: Mozilla Public License  (http://www.mozilla.org/MPL/MPL-1.1.html)
+  - liquibase-slf4j (https://github.com/mattbertolini/liquibase-slf4j)
+      Artifact: com.mattbertolini:liquibase-slf4j:jar:1.2.1
+      License: MIT License  (http://www.opensource.org/licenses/mit-license.html)
+  - smartgwt 
+      Artifact: com.smartgwt:smartgwt:jar:4.0
+
+  - Java Advanced Imaging Codecs (http://java.sun.com/products/java-media/jai)
+      Artifact: com.sun.media:jai-codec:jar:1.1.3
+      License: Sun Microsystems, Inc. Binary Code License Agreement  (http://java.sun.com/products/java-media/jai/downloads/download-1_1_2_01.html)
+  - Boilerpipe -- Boilerplate Removal and Fulltext Extraction from HTML pages (http://code.google.com/p/boilerpipe/)
+      Artifact: de.l3s.boilerpipe:boilerpipe:jar:1.1.0
+      License: Apache License 2.0 
+  - ecs 
+      Artifact: ecs:ecs:jar:1.4.2
+
+  - The NetCDF-Java Library (http://www.unidata.ucar.edu/software/netcdf-java/)
+      Artifact: edu.ucar:netcdf:jar:4.2-min
+      License: (MIT-style) netCDF C library license.  (http://www.unidata.ucar.edu/software/netcdf/copyright.html)
+  - iCal4j (http://ical4j.sourceforge.net)
+      Artifact: ical4j:ical4j:jar:1.0-beta5
+      License: iCal4j - License  (LICENSE)
+  - swagger-annotations (https://github.com/swagger-api/swagger-core/modules/swagger-annotations)
+      Artifact: io.swagger:swagger-annotations:bundle:1.5.0
+      License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - swagger-core (https://github.com/swagger-api/swagger-core/modules/swagger-core)
+      Artifact: io.swagger:swagger-core:jar:1.5.0
+      License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - swagger-jaxrs (https://github.com/swagger-api/swagger-core/modules/swagger-jaxrs)
+      Artifact: io.swagger:swagger-jaxrs:jar:1.5.0
+      License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - swagger-models (https://github.com/swagger-api/swagger-core/modules/swagger-models)
+      Artifact: io.swagger:swagger-models:bundle:1.5.0
+      License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - jakarta-regexp 
+      Artifact: jakarta-regexp:jakarta-regexp:jar:1.4
+
+  - JSR-250 Common Annotations for the JavaTM Platform (http://jcp.org/aboutJava/communityprocess/final/jsr250/index.html)
+      Artifact: javax.annotation:jsr250-api:jar:1.0
+      License: COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0  (https://glassfish.dev.java.net/public/CDDLv1.0.html)
+  - CC/PP API (http://www.jcp.org/en/jsr/detail?id=188)
+      Artifact: javax.ccpp:ccpp:jar:1.0
+      License: Sun Microsystems, Inc. Binary Code License Agreement  (http://java.sun.com/j2ee/ccpp)
+  - javax.inject (http://code.google.com/p/atinject/)
+      Artifact: javax.inject:javax.inject:jar:1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Java Advanced Imaging (http://java.sun.com/products/java-media/jai)
+      Artifact: javax.media:jai-core:jar:1.1.3
+      License: Sun Microsystems, Inc. Binary Code License Agreement  (http://java.sun.com/products/java-media/jai/downloads/download-1_1_2_01.html)
+  - Java Portlet Specification V2.0 (http://www.jcp.org/en/jsr/detail?id=286)
+      Artifact: javax.portlet:portlet-api:jar:2.0
+
+  - Java Transaction API (http://java.sun.com/products/jta)
+      Artifact: javax.transaction:jta:jar:1.1
+
+  - Bean Validation API 
+      Artifact: javax.validation:validation-api:jar:1.0.0.GA
+      License: Apache License, Version 2.0  (license.txt)
+  - StAX Utilities Project (http://java.net/projects/stax-utils/)
+      Artifact: net.java.dev.stax-utils:stax-utils:jar:20070216
+      License: BSD  (http://www.opensource.org/licenses/bsd-license.html)
+  - OAuth Core (http://oauth.net/code/oauth-core-parent/oauth/)
+      Artifact: net.oauth.core:oauth:jar:20100527
+
+  - OAuth Core: Consumer (http://oauth.net/code/oauth-core-parent/oauth-consumer/)
+      Artifact: net.oauth.core:oauth-consumer:jar:20090617
+
+  - OAuth Core: HttpClient4 (http://oauth.net/code/oauth-core-parent/oauth-httpclient4/)
+      Artifact: net.oauth.core:oauth-httpclient4:jar:20090913
+
+  - OAuth Core: Provider (http://oauth.net/code/oauth-core-parent/oauth-provider/)
+      Artifact: net.oauth.core:oauth-provider:jar:20100527
+
+  - ezmorph (http://ezmorph.sourceforge.net)
+      Artifact: net.sf.ezmorph:ezmorph:jar:1.0.6
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - CSS Parser (http://cssparser.sourceforge.net/)
+      Artifact: net.sourceforge.cssparser:cssparser:jar:0.9.14
+      License: GNU Lesser General Public License  (http://www.gnu.org/licenses/lgpl.txt)
+  - HtmlCleaner (http://htmlcleaner.sourceforge.net/)
+      Artifact: net.sourceforge.htmlcleaner:htmlcleaner:jar:2.7
+      License: BSD License  (http://www.opensource.org/licenses/bsd-license.php)
+  - Neko HTML (http://nekohtml.sourceforge.net/)
+      Artifact: net.sourceforge.nekohtml:nekohtml:jar:1.9.20
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - ANTLR StringTemplate (http://www.stringtemplate.org)
+      Artifact: org.antlr:stringtemplate:jar:3.2.1
+      License: BSD licence  (http://antlr.org/license.html)
+  - Apache Sanselan (http://sanselan.apache.org/)
+      Artifact: org.apache.sanselan:sanselan:bundle:0.97-incubator
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - tomcat (http://tomcat.apache.org/)
+      Artifact: org.apache.tomcat:tomcat:pom:7.0.63
+      License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - tomcat-catalina-jmx-remote (http://tomcat.apache.org/)
+      Artifact: org.apache.tomcat:tomcat-catalina-jmx-remote:jar:7.0.63
+      License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - JODConverter - Core Library (http://jodconverter.googlecode.com)
+      Artifact: org.artofsolving.jodconverter:jodconverter-core:jar:3.0-eXo03
+      License: GNU Lesser General Public License, Version 3 or later  (http://www.gnu.org/licenses/lgpl.html)
+  - AspectJ runtime (http://www.aspectj.org)
+      Artifact: org.aspectj:aspectjrt:jar:1.8.6
+      License: Eclipse Public License - v 1.0  (http://www.eclipse.org/legal/epl-v10.html)
+  - Bouncy Castle CMS and S/MIME API (http://www.bouncycastle.org/java.html)
+      Artifact: org.bouncycastle:bcmail-jdk15:jar:1.45
+      License: Bouncy Castle Licence  (http://www.bouncycastle.org/licence.html)
+  - Bouncy Castle Provider (http://www.bouncycastle.org/java.html)
+      Artifact: org.bouncycastle:bcprov-jdk15:jar:1.45
+      License: Bouncy Castle Licence  (http://www.bouncycastle.org/licence.html)
+  - Bouncy Castle OpenPGP API (http://www.bouncycastle.org/java.html)
+      Artifact: org.bouncycastle:bctsp-jdk15:jar:1.45
+      License: Bouncy Castle Licence  (http://www.bouncycastle.org/licence.html)
+  - TagSoup (http://home.ccil.org/~cowan/XML/tagsoup/)
+      Artifact: org.ccil.cowan.tagsoup:tagsoup:jar:1.2.1
+      License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Compiler (http://docs.codehaus.org/display/JANINO/Home/commons-compiler)
+      Artifact: org.codehaus.janino:commons-compiler:jar:2.6.1
+      License: New BSD License  (http://dist.codehaus.org/janino/new_bsd_license.txt)
+  - Janino (http://docs.codehaus.org/display/JANINO/Home/janino)
+      Artifact: org.codehaus.janino:janino:jar:2.6.1
+      License: New BSD License  (http://dist.codehaus.org/janino/new_bsd_license.txt)
+  - Ogg and Vorbis for Java, Core (https://github.com/Gagravarr/VorbisJava)
+      Artifact: org.gagravarr:vorbis-java-core:jar:0.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Ogg and Vorbis for Java, Core (https://github.com/Gagravarr/VorbisJava)
+      Artifact: org.gagravarr:vorbis-java-core:jar:0.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tika plugin for Ogg, Vorbis and FLAC (https://github.com/Gagravarr/VorbisJava)
+      Artifact: org.gagravarr:vorbis-java-tika:jar:0.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Hibernate Validator (http://validator.hibernate.org/hibernate-validator)
+      Artifact: org.hibernate:hibernate-validator:jar:4.2.0.Final
+      License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - HTML Lexer Jar (http://htmlparser.org)
+      Artifact: org.htmlparser:htmllexer:jar:2.1
+      License: Common Public License  (http://htmlparser.sourceforge.net/cpl1.0.txt)      License: GNU Lesser General Public License  (http://htmlparser.sourceforge.net/lgpl3.0.txt)
+  - HTML Parser Jar (http://htmlparser.org)
+      Artifact: org.htmlparser:htmlparser:jar:2.1
+      License: Common Public License  (http://htmlparser.sourceforge.net/cpl1.0.txt)      License: GNU Lesser General Public License  (http://htmlparser.sourceforge.net/lgpl3.0.txt)
+  - ICEpdf Core (http://www.icepdf.org)
+      Artifact: org.icepdf.os:icepdf-core:jar:5.1.1
+
+  - Javassist (http://www.javassist.org/)
+      Artifact: org.javassist:javassist:jar:3.14.0-GA
+      License: MPL 1.1  (http://www.mozilla.org/MPL/MPL-1.1.html)      License: LGPL 2.1  (http://www.gnu.org/licenses/lgpl-2.1.html)
+  - JBossTS jbossjta (http://www.jboss.org/jbosstm/)
+      Artifact: org.jboss.jbossts:jbossjta:jar:4.16.6.Final
+      License: LGPL 2.1  (http://www.gnu.org/licenses/lgpl-2.1.html)
+  - XPP3 (http://www.extreme.indiana.edu/xpp/)
+      Artifact: org.ogce:xpp3:jar:1.1.6
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Java Uno Helper (http://udk.openoffice.org)
+      Artifact: org.openoffice:juh:jar:3.2.1
+      License: GNU Lesser General Public License, Version 3  (http://www.openoffice.org/license.html)
+  - Java Uno RunTime (http://udk.openoffice.org)
+      Artifact: org.openoffice:jurt:jar:3.2.1
+      License: GNU Lesser General Public License, Version 3  (http://www.openoffice.org/license.html)
+  - Java Runtime Interface Definition Library (http://udk.openoffice.org)
+      Artifact: org.openoffice:ridl:jar:3.2.1
+      License: GNU Lesser General Public License, Version 3  (http://www.openoffice.org/license.html)
+  - UNO interface library (http://udk.openoffice.org)
+      Artifact: org.openoffice:unoil:jar:3.2.1
+      License: GNU Lesser General Public License, Version 3  (http://www.openoffice.org/license.html)
+  - pygments (http://www.pygments.org)
+      Artifact: org.pygments:pygments:jar:1.6
+      License: Simplified BSD License  (http://www.opensource.org/licenses/BSD-2-Clause)
+  - Jython (http://www.jython.org/)
+      Artifact: org.python:jython-standalone:jar:2.5.4-rc1
+      License: Jython Software License  (http://www.jython.org/Project/license.html)
+  - Quartz Enterprise Job Scheduler (http://quartz-scheduler.org/quartz/)
+      Artifact: org.quartz-scheduler:quartz:jar:2.1.7
+      License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - Reflections (http://github.com/ronmamo/reflections)
+      Artifact: org.reflections:reflections:jar:0.9.9
+      License: WTFPL  (http://www.wtfpl.net/)      License: The New BSD License  (http://www.opensource.org/licenses/bsd-license.html)
+  - Scribe OAuth Library (http://github.com/fernandezpablo85/scribe-java)
+      Artifact: org.scribe:scribe:jar:1.3.5
+      License: MIT  (http://github.com/fernandezpablo85/scribe-java/blob/master/LICENSE.txt)
+  - jrcs.diff 
+      Artifact: org.suigeneris:jrcs.diff:jar:0.4.2
+
+  - jrcs.rcs 
+      Artifact: org.suigeneris:jrcs.rcs:jar:0.4.2
+
+  - XZ for Java (http://tukaani.org/xz/java.html)
+      Artifact: org.tukaani:xz:jar:1.2
+      License: Public Domain 
+  - twitter4j-core (http://twitter4j.org/)
+      Artifact: org.twitter4j:twitter4j-core:jar:3.0.5
+      License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - Flying Saucer Core Renderer (http://code.google.com/p/flying-saucer/flying-saucer-core/)
+      Artifact: org.xhtmlrenderer:flying-saucer-core:jar:9.0.6
+      License: GNU Lesser General Public License (LGPL), version 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - Flying Saucer PDF Rendering (http://code.google.com/p/flying-saucer/flying-saucer-pdf/)
+      Artifact: org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.6
+      License: GNU Lesser General Public License (LGPL), version 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - SnakeYAML (http://www.snakeyaml.org)
+      Artifact: org.yaml:snakeyaml:bundle:1.13
+      License: Apache License Version 2.0  (LICENSE.txt)
+  - velocity-tools 
+      Artifact: velocity-tools:velocity-tools:jar:1.4
+
+
+This product includes/uses software developed by 'ANTLR' (http://www.antlr.org)
+  - ANTLR 3 Runtime (http://www.antlr.org)
+      Artifact: org.antlr:antlr-runtime:jar:3.5
+      License: BSD licence  (http://antlr.org/license.html)
+
+This product includes/uses software developed by 'Apache Software Foundation' (http://jakarta.apache.org/)
+  - HttpClient (http://jakarta.apache.org/httpcomponents/httpclient-3.x/)
+      Artifact: commons-httpclient:commons-httpclient:jar:3.1
+      License: Apache License  (http://www.apache.org/licenses/LICENSE-2.0)
+
+This product includes/uses software developed by 'Apache Software Foundation' (http://portals.apache.org/)
+  - Portals Bridges Common (http://portals.apache.org/bridges/portals-bridges-common)
+      Artifact: org.apache.portals.bridges:portals-bridges-common:jar:1.0.4
+      License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+This product includes/uses software developed by 'Apache Software Foundation' (http://www.apache.org/)
+  - Apache POI (http://poi.apache.org/)
+      Artifact: org.apache.poi:poi:jar:3.10.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache POI (http://poi.apache.org/)
+      Artifact: org.apache.poi:poi-ooxml:jar:3.10.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache POI (http://poi.apache.org/)
+      Artifact: org.apache.poi:poi-ooxml-schemas:jar:3.10.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache POI (http://poi.apache.org/)
+      Artifact: org.apache.poi:poi-scratchpad:jar:3.10.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache WebServices Common Utilities (http://ws.apache.org/commons/util)
+      Artifact: org.apache.ws.commons:ws-commons-util:jar:1.0.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Batik animation engine (http://xmlgraphics.apache.org/batik/)
+      Artifact: org.apache.xmlgraphics:batik-anim:jar:1.7
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Batik AWT utilities (http://xmlgraphics.apache.org/batik/)
+      Artifact: org.apache.xmlgraphics:batik-awt-util:jar:1.7
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Batik CSS engine (http://xmlgraphics.apache.org/batik/)
+      Artifact: org.apache.xmlgraphics:batik-css:jar:1.7
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Batik DOM implementation (http://xmlgraphics.apache.org/batik/)
+      Artifact: org.apache.xmlgraphics:batik-dom:jar:1.7
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Batik external code (http://xmlgraphics.apache.org/batik/)
+      Artifact: org.apache.xmlgraphics:batik-ext:jar:1.7
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Batik SVG microsyntax parser library (http://xmlgraphics.apache.org/batik/)
+      Artifact: org.apache.xmlgraphics:batik-parser:jar:1.7
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Batik SVG DOM implementation (http://xmlgraphics.apache.org/batik/)
+      Artifact: org.apache.xmlgraphics:batik-svg-dom:jar:1.7
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Batik utility library (http://xmlgraphics.apache.org/batik/)
+      Artifact: org.apache.xmlgraphics:batik-util:jar:1.7
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Batik XML utility library (http://xmlgraphics.apache.org/batik/)
+      Artifact: org.apache.xmlgraphics:batik-xml:jar:1.7
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache XML Graphics Commons (http://xmlgraphics.apache.org/commons/)
+      Artifact: org.apache.xmlgraphics:xmlgraphics-commons:jar:1.3.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software developed by 'Codehaus' (http://codehaus.org/)
+  - PicoContainer (http://www.picocontainer.org/)
+      Artifact: picocontainer:picocontainer:jar:1.1
+
+
+This product includes/uses software developed by 'Day Software Management AG' (http://www.day.com/)
+  - Content Repository for Java Technology API (http://www.jcp.org/en/jsr/detail?id=170)
+      Artifact: javax.jcr:jcr:jar:1.0.1
+      License: Day License  (http://www.day.com/maven/jsr170/licenses/day-spec-license.htm)
+
+This product includes/uses software developed by 'Dojo Foundation' (http://dojofoundation.org)
+  - CometD :: Bayeux API (http://cometd.org/cometd-java/bayeux-api)
+      Artifact: org.cometd.java:bayeux-api:jar:3.0.5
+      License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)      License: The New BSD License  (http://www.opensource.org/licenses/bsd-license.html)      License: The Academic Free License, v. 2.1  (http://opensource-definition.org/licenses/afl-2.1.html)
+  - CometD :: Java :: Annotations (http://cometd.org/cometd-java/cometd-java-annotations)
+      Artifact: org.cometd.java:cometd-java-annotations:jar:3.0.5
+      License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)      License: The New BSD License  (http://www.opensource.org/licenses/bsd-license.html)      License: The Academic Free License, v. 2.1  (http://opensource-definition.org/licenses/afl-2.1.html)
+  - CometD :: Java :: Bayeux Client (http://cometd.org/cometd-java/cometd-java-client)
+      Artifact: org.cometd.java:cometd-java-client:jar:3.0.5
+      License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)      License: The New BSD License  (http://www.opensource.org/licenses/bsd-license.html)      License: The Academic Free License, v. 2.1  (http://opensource-definition.org/licenses/afl-2.1.html)
+  - CometD :: Java :: Bayeux Common (http://cometd.org/cometd-java/cometd-java-common)
+      Artifact: org.cometd.java:cometd-java-common:jar:3.0.5
+      License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)      License: The New BSD License  (http://www.opensource.org/licenses/bsd-license.html)      License: The Academic Free License, v. 2.1  (http://opensource-definition.org/licenses/afl-2.1.html)
+  - CometD :: Java :: Oort (http://cometd.org/cometd-java/cometd-java-oort)
+      Artifact: org.cometd.java:cometd-java-oort:jar:3.0.5
+      License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)      License: The New BSD License  (http://www.opensource.org/licenses/bsd-license.html)      License: The Academic Free License, v. 2.1  (http://opensource-definition.org/licenses/afl-2.1.html)
+  - CometD :: Java :: Bayeux Server (http://cometd.org/cometd-java/cometd-java-server)
+      Artifact: org.cometd.java:cometd-java-server:jar:3.0.5
+      License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)      License: The New BSD License  (http://www.opensource.org/licenses/bsd-license.html)      License: The Academic Free License, v. 2.1  (http://opensource-definition.org/licenses/afl-2.1.html)
+  - CometD :: Java :: WebSocket :: Common Client (http://cometd.org/cometd-java/cometd-java-websocket/cometd-java-websocket-common-client)
+      Artifact: org.cometd.java:cometd-java-websocket-common-client:jar:3.0.5
+      License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)      License: The New BSD License  (http://www.opensource.org/licenses/bsd-license.html)      License: The Academic Free License, v. 2.1  (http://opensource-definition.org/licenses/afl-2.1.html)
+  - CometD :: Java :: WebSocket :: Common Server (http://cometd.org/cometd-java/cometd-java-websocket/cometd-java-websocket-common-server)
+      Artifact: org.cometd.java:cometd-java-websocket-common-server:jar:3.0.5
+      License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)      License: The New BSD License  (http://www.opensource.org/licenses/bsd-license.html)      License: The Academic Free License, v. 2.1  (http://opensource-definition.org/licenses/afl-2.1.html)
+  - CometD :: Java :: WebSocket :: JSR 356 Client (http://cometd.org/cometd-java/cometd-java-websocket/cometd-java-websocket-javax-client)
+      Artifact: org.cometd.java:cometd-java-websocket-javax-client:jar:3.0.5
+      License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)      License: The New BSD License  (http://www.opensource.org/licenses/bsd-license.html)      License: The Academic Free License, v. 2.1  (http://opensource-definition.org/licenses/afl-2.1.html)
+  - CometD :: Java :: WebSocket :: JSR 356 Server (http://cometd.org/cometd-java/cometd-java-websocket/cometd-java-websocket-javax-server)
+      Artifact: org.cometd.java:cometd-java-websocket-javax-server:jar:3.0.5
+      License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)      License: The New BSD License  (http://www.opensource.org/licenses/bsd-license.html)      License: The Academic Free License, v. 2.1  (http://opensource-definition.org/licenses/afl-2.1.html)
+
+This product includes/uses software developed by 'Dough Lea' (http://gee.cs.oswego.edu/dl/classes/EDU/oswego/cs/dl/util/concurrent/intro.html)
+  - Dough Lea's util.concurrent package 
+      Artifact: concurrent:concurrent:jar:1.3.4
+      License: Public domain, Sun Microsoystems  (>http://gee.cs.oswego.edu/dl/classes/EDU/oswego/cs/dl/util/concurrent/intro.html)
+
+This product includes/uses software developed by 'eXo Platform SAS' (http://www.exoplatform.com)
+  - Chromattic Framework API (http://chromattic.googlecode.com/chromattic.api/)
+      Artifact: org.chromattic:chromattic.api:jar:1.3.0-beta4
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Chromattic Framework APT Plugin (http://chromattic.googlecode.com/chromattic.apt/)
+      Artifact: org.chromattic:chromattic.apt:jar:1.3.0-beta4
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Chromattic Framework CGLib Plugin (http://chromattic.googlecode.com/chromattic.cglib/)
+      Artifact: org.chromattic:chromattic.cglib:jar:1.3.0-beta4
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Chromattic Framework Common (http://chromattic.googlecode.com/chromattic.common/)
+      Artifact: org.chromattic:chromattic.common:jar:1.3.0-beta4
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Chromattic Framework Core (http://chromattic.googlecode.com/chromattic.core/)
+      Artifact: org.chromattic:chromattic.core:jar:1.3.0-beta4
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Chromattic Data Object (http://chromattic.googlecode.com/chromattic.dataobject/)
+      Artifact: org.chromattic:chromattic.dataobject:jar:1.3.0-beta4
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Chromattic Framework Extensions (http://chromattic.googlecode.com/chromattic.ext/)
+      Artifact: org.chromattic:chromattic.ext:jar:1.3.0-beta4
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Chromattic Framework Groovy (http://chromattic.googlecode.com/chromattic.groovy/)
+      Artifact: org.chromattic:chromattic.groovy:jar:1.3.0-beta4
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Chromattic Framework Metamodel (http://chromattic.googlecode.com/chromattic.metamodel/)
+      Artifact: org.chromattic:chromattic.metamodel:jar:1.3.0-beta4
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Chromattic Framework SPI (http://chromattic.googlecode.com/chromattic.spi/)
+      Artifact: org.chromattic:chromattic.spi:jar:1.3.0-beta4
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Juzu Core (http://github.com/juzu/juzu/juzu-core)
+      Artifact: org.juzu:juzu-core:jar:1.1.0
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Juzu Less Plugin (http://github.com/juzu/juzu/juzu-plugins-parent/juzu-plugins-less)
+      Artifact: org.juzu:juzu-plugins-less:jar:1.1.0
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Juzu Portlet Plugin (http://github.com/juzu/juzu/juzu-plugins-parent/juzu-plugins-portlet)
+      Artifact: org.juzu:juzu-plugins-portlet:jar:1.1.0
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Juzu File Upload Plugin (http://github.com/juzu/juzu/juzu-plugins-parent/juzu-plugins-upload)
+      Artifact: org.juzu:juzu-plugins-upload:jar:1.1.0
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Reflext Framework API (http://reflext.googlecode.com/reflext.api/)
+      Artifact: org.reflext:reflext.api:jar:1.1.0
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Reflext Framework Annotation Processing Tool Plugin (http://reflext.googlecode.com/reflext.apt/)
+      Artifact: org.reflext:reflext.apt:jar:1.1.0
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Reflext Framework Core (http://reflext.googlecode.com/reflext.core/)
+      Artifact: org.reflext:reflext.core:jar:1.1.0
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Reflext Framework Java Lang Reflect Plugin (http://reflext.googlecode.com/reflext.jlr/)
+      Artifact: org.reflext:reflext.jlr:jar:1.1.0
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Reflext Framework SPI (http://reflext.googlecode.com/reflext.spi/)
+      Artifact: org.reflext:reflext.spi:jar:1.1.0
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - Staxnav - Core (https://github.com/vietj/staxnav/staxnav.core/)
+      Artifact: org.staxnav:staxnav.core:jar:0.9.6
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+
+This product includes/uses software developed by 'Extreme! Lab, Indiana University' (http://www.extreme.indiana.edu/)
+  - MXP1: Xml Pull Parser 3rd Edition (XPP3) (http://www.extreme.indiana.edu/xgws/xsoap/xpp/mxp1/)
+      Artifact: xpp3:xpp3:jar:1.1.4c
+      License: Indiana University Extreme! Lab Software License, vesion 1.1.1  (http://www.extreme.indiana.edu/viewcvs/~checkout~/XPP3/java/LICENSE.txt)      License: Public Domain  (http://creativecommons.org/licenses/publicdomain)      License: Apache Software License, version 1.1  (http://www.apache.org/licenses/LICENSE-1.1)
+
+This product includes/uses software developed by 'FasterXML' (http://fasterxml.com)
+  - Jackson (http://jackson.codehaus.org)
+      Artifact: org.codehaus.jackson:jackson-core-asl:jar:1.9.11
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software developed by 'FasterXML' (http://fasterxml.com/)
+  - Jackson-annotations (http://wiki.fasterxml.com/JacksonHome)
+      Artifact: com.fasterxml.jackson.core:jackson-annotations:bundle:2.4.0
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-core (http://wiki.fasterxml.com/JacksonHome)
+      Artifact: com.fasterxml.jackson.core:jackson-core:bundle:2.4.2
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - jackson-databind (http://wiki.fasterxml.com/JacksonHome)
+      Artifact: com.fasterxml.jackson.core:jackson-databind:bundle:2.3.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)      License: GNU Lesser General Public License, Version 2.1  (http://www.gnu.org/licenses/lgpl-2.1.html)
+  - Jackson-dataformat-XML (http://wiki.fasterxml.com/JacksonExtensionXmlDataBinding)
+      Artifact: com.fasterxml.jackson.dataformat:jackson-dataformat-xml:bundle:2.4.2
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-dataformat-YAML (http://wiki.fasterxml.com/JacksonExtensionYAML)
+      Artifact: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:bundle:2.4.2
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-datatype-Joda (http://wiki.fasterxml.com/JacksonModuleJoda)
+      Artifact: com.fasterxml.jackson.datatype:jackson-datatype-joda:bundle:2.4.2
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-JAXRS-base (http://wiki.fasterxml.com/JacksonHome/jackson-jaxrs-base)
+      Artifact: com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:bundle:2.4.2
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-JAXRS-JSON (http://wiki.fasterxml.com/JacksonHome/jackson-jaxrs-json-provider)
+      Artifact: com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:bundle:2.4.2
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-module-JAXB-annotations (http://wiki.fasterxml.com/JacksonJAXBAnnotations)
+      Artifact: com.fasterxml.jackson.module:jackson-module-jaxb-annotations:bundle:2.4.2
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software developed by 'fasterxml.com' (http://fasterxml.com)
+  - Stax2 API (http://wiki.fasterxml.com/WoodstoxStax2)
+      Artifact: org.codehaus.woodstox:stax2-api:bundle:3.1.4
+      License: The BSD License  (http://www.opensource.org/licenses/bsd-license.php)
+
+This product includes/uses software developed by 'FuseSource, Corp.' (http://fusesource.com/)
+  - jansi (http://jansi.fusesource.org/jansi)
+      Artifact: org.fusesource.jansi:jansi:jar:1.11
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software developed by 'GateIn' (http://www.gatein.org)
+  - GateIn - Portlet Container (api) (http://www.jboss.org/gatein/portletcontainer.html/pc-api)
+      Artifact: org.gatein.pc:pc-api:jar:2.5.1.Final
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - GateIn - Portlet Container (bridge) (http://www.jboss.org/gatein/portletcontainer.html/pc-bridge)
+      Artifact: org.gatein.pc:pc-bridge:jar:2.5.1.Final
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - GateIn - Portlet Container (federation) (http://www.jboss.org/gatein/portletcontainer.html/pc-federation)
+      Artifact: org.gatein.pc:pc-federation:jar:2.5.1.Final
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+  - GateIn - Portlet Container (pc) (http://www.jboss.org/gatein/portletcontainer.html/pc-portlet)
+      Artifact: org.gatein.pc:pc-portlet:jar:2.5.1.Final
+      License: LGPL, version 2.1  (http://www.opensource.org/licenses/lgpl-license.php)
+
+This product includes/uses software developed by 'Google' (http://www.google.com)
+  - Caja (http://code.google.com/p/google-caja)
+      Artifact: caja:caja:jar:r4251
+      License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Closure Compiler (http://code.google.com/p/closure-compiler/)
+      Artifact: com.google.javascript:closure-compiler:jar:r1592
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+This product includes/uses software developed by 'Google' (http://www.google.com/)
+  - Google APIs Client Library for Java (http://code.google.com/p/google-api-java-client/google-api-client/)
+      Artifact: com.google.api-client:google-api-client:jar:1.14.1-beta
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Google OAuth2 API v2 (revision 36) (http://code.google.com/google-api-services-oauth2/)
+      Artifact: com.google.apis:google-api-services-oauth2:jar:v2-rev36-1.14.2-beta
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Google+ API v1 (revision 69) (http://code.google.com/google-api-services-plus/)
+      Artifact: com.google.apis:google-api-services-plus:jar:v1-rev69-1.14.2-beta
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Google HTTP Client Library for Java (http://code.google.com/p/google-http-java-client/google-http-client/)
+      Artifact: com.google.http-client:google-http-client:jar:1.14.1-beta
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson extensions to the Google HTTP Client Library for Java. (http://code.google.com/p/google-http-java-client/google-http-client-jackson/)
+      Artifact: com.google.http-client:google-http-client-jackson:jar:1.14.1-beta
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Google OAuth Client Library for Java (http://code.google.com/p/google-oauth-java-client/google-oauth-client/)
+      Artifact: com.google.oauth-client:google-oauth-client:jar:1.14.1-beta
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software developed by 'Google, Inc.' (http://www.google.com)
+  - Google Guice - Core Library (http://code.google.com/p/google-guice/guice/)
+      Artifact: com.google.inject:guice:jar:3.0
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Google Guice - Extensions - JMX (http://code.google.com/p/google-guice/extensions-parent/guice-jmx/)
+      Artifact: com.google.inject.extensions:guice-jmx:jar:3.0
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Google Guice - Extensions - MultiBindings (http://code.google.com/p/google-guice/extensions-parent/guice-multibindings/)
+      Artifact: com.google.inject.extensions:guice-multibindings:jar:3.0
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software developed by 'Hibernate.org' (http://hibernate.org)
+  - A Hibernate Core Module (http://hibernate.org)
+      Artifact: org.hibernate:hibernate-c3p0:jar:4.1.12.Final
+      License: GNU Lesser General Public License  (http://www.gnu.org/licenses/lgpl-2.1.html)
+  - A Hibernate Core Module (http://hibernate.org)
+      Artifact: org.hibernate:hibernate-core:jar:4.1.12.Final
+      License: GNU Lesser General Public License  (http://www.gnu.org/licenses/lgpl-2.1.html)
+  - A Hibernate Core Module (http://hibernate.org)
+      Artifact: org.hibernate:hibernate-entitymanager:jar:4.1.12.Final
+      License: GNU Lesser General Public License  (http://www.gnu.org/licenses/lgpl-2.1.html)
+  - Hibernate Commons Annotations (http://hibernate.org)
+      Artifact: org.hibernate.common:hibernate-commons-annotations:jar:4.0.4.Final
+      License: GNU Lesser General Public License  (http://www.gnu.org/licenses/lgpl-2.1.html)
+  - JPA 2.0 API (http://hibernate.org)
+      Artifact: org.hibernate.javax.persistence:hibernate-jpa-2.0-api:jar:1.0.1.Final
+      License: $license.name  (license.txt)
+
+This product includes/uses software developed by 'java.net' (http://www.java.net/)
+  - JavaCC (https://javacc.dev.java.net/)
+      Artifact: net.java.dev.javacc:javacc:jar:5.0
+      License: Berkeley Software Distribution (BSD) License  (http://www.opensource.org/licenses/bsd-license.html)
+
+This product includes/uses software developed by 'JBoss by Red Hat' (http://www.jboss.org)
+  - gatein-api (www.gatein.org/gatein-api/)
+      Artifact: org.gatein.api:gatein-api:jar:1.0.1.Final
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn SimpleCaptcha (www.gatein.org/simplecaptcha/)
+      Artifact: org.gatein.captcha:simplecaptcha:jar:1.1.1.Final-gatein-4
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn CDI Portlet Contexts (www.gatein.org/exo.portal.parent/gatein-cdi-parent/gatein-cdi-contexts/)
+      Artifact: org.gatein.cdi:gatein-cdi-contexts:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn CDI Portlet and Filter Injection (www.gatein.org/exo.portal.parent/gatein-cdi-parent/gatein-cdi-injection/)
+      Artifact: org.gatein.cdi:gatein-cdi-injection:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn - Common component (common) (www.gatein.org/common-parent/common-common/)
+      Artifact: org.gatein.common:common-common:jar:2.2.2.Final
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn - Common component (logging) (www.gatein.org/common-parent/common-logging/)
+      Artifact: org.gatein.common:common-logging:jar:2.2.2.Final
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Management - API (www.gatein.org/gatein-management-parent/gatein-management-api/)
+      Artifact: org.gatein.management:gatein-management-api:jar:2.1.0.Final
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Management - Core (www.gatein.org/gatein-management-parent/gatein-management-core/)
+      Artifact: org.gatein.management:gatein-management-core:jar:2.1.0.Final
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Management - REST (www.gatein.org/gatein-management-parent/gatein-management-rest/)
+      Artifact: org.gatein.management:gatein-management-rest:jar:2.1.0.Final
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Management - SPI (www.gatein.org/gatein-management-parent/gatein-management-spi/)
+      Artifact: org.gatein.management:gatein-management-spi:jar:2.1.0.Final
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - MOP API (www.gatein.org/mop-parent/mop-api/)
+      Artifact: org.gatein.mop:mop-api:jar:1.3.2.Final
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - MOP Core (www.gatein.org/mop-parent/mop-core/)
+      Artifact: org.gatein.mop:mop-core:jar:1.3.2.Final
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - MOP SPI (www.gatein.org/mop-parent/mop-spi/)
+      Artifact: org.gatein.mop:mop-spi:jar:1.3.2.Final
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Component API Implementation (www.gatein.org/exo.portal.parent/exo.portal.component/exo.portal.component.api/)
+      Artifact: org.gatein.portal:exo.portal.component.api:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Component Application Registry (www.gatein.org/exo.portal.parent/exo.portal.component/exo.portal.component.application-registry/)
+      Artifact: org.gatein.portal:exo.portal.component.application-registry:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Component Common (www.gatein.org/exo.portal.parent/exo.portal.component/exo.portal.component.common/)
+      Artifact: org.gatein.portal:exo.portal.component.common:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Component JBoss IDM integration (www.gatein.org/exo.portal.parent/exo.portal.component/exo.portal.component.identity/)
+      Artifact: org.gatein.portal:exo.portal.component.identity:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Component Management (www.gatein.org/exo.portal.parent/exo.portal.component/exo.portal.component.management/)
+      Artifact: org.gatein.portal:exo.portal.component.management:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Component PC integration (www.gatein.org/exo.portal.parent/exo.portal.component/exo.portal.component.pc/)
+      Artifact: org.gatein.portal:exo.portal.component.pc:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Component Portal Data (www.gatein.org/exo.portal.parent/exo.portal.component/exo.portal.component.portal/)
+      Artifact: org.gatein.portal:exo.portal.component.portal:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Component Resources (www.gatein.org/exo.portal.parent/exo.portal.component/exo.portal.component.resources/)
+      Artifact: org.gatein.portal:exo.portal.component.resources:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Component Scripting (www.gatein.org/exo.portal.parent/exo.portal.component/exo.portal.component.scripting/)
+      Artifact: org.gatein.portal:exo.portal.component.scripting:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Component Web API (www.gatein.org/exo.portal.parent/exo.portal.component/exo.portal.component.web/exo.portal.component.web.api/)
+      Artifact: org.gatein.portal:exo.portal.component.web.api:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Component Web Controller (www.gatein.org/exo.portal.parent/exo.portal.component/exo.portal.component.web/exo.portal.component.web.controller/)
+      Artifact: org.gatein.portal:exo.portal.component.web.controller:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Component Web OAuth Common (www.gatein.org/exo.portal.parent/exo.portal.component/exo.portal.component.web/exo.portal.component.web.oauth-common/)
+      Artifact: org.gatein.portal:exo.portal.component.web.oauth-common:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Component Web OAuth Web (www.gatein.org/exo.portal.parent/exo.portal.component/exo.portal.component.web/exo.portal.component.web.oauth-web/)
+      Artifact: org.gatein.portal:exo.portal.component.web.oauth-web:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Component Web Resources (www.gatein.org/exo.portal.parent/exo.portal.component/exo.portal.component.web/exo.portal.component.web.resources/)
+      Artifact: org.gatein.portal:exo.portal.component.web.resources:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Component Web Security (www.gatein.org/exo.portal.parent/exo.portal.component/exo.portal.component.web/exo.portal.component.web.security/)
+      Artifact: org.gatein.portal:exo.portal.component.web.security:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Component Web Server (www.gatein.org/exo.portal.parent/exo.portal.component/exo.portal.component.web/exo.portal.component.web.server/)
+      Artifact: org.gatein.portal:exo.portal.component.web.server:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal eXo Gadgets Application (www.gatein.org/exo.portal.parent/exo.portal.gadgets/exo.portal.eXoGadgets/)
+      Artifact: org.gatein.portal:exo.portal.eXoGadgets:war:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal eXo Gadgets Core (www.gatein.org/exo.portal.parent/exo.portal.gadgets/exo.portal.gadgets-core/)
+      Artifact: org.gatein.portal:exo.portal.gadgets-core:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal eXo Gadgets Server (www.gatein.org/exo.portal.parent/exo.portal.gadgets/exo.portal.gadgets-server/)
+      Artifact: org.gatein.portal:exo.portal.gadgets-server:war:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Portlet Dashboard (www.gatein.org/exo.portal.parent/exo.portal.portlet/exo.portal.portlet.dashboard/)
+      Artifact: org.gatein.portal:exo.portal.portlet.dashboard:war:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Portlet eXoAdmin (www.gatein.org/exo.portal.parent/exo.portal.portlet/exo.portal.portlet.exoadmin/)
+      Artifact: org.gatein.portal:exo.portal.portlet.exoadmin:war:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Portlet Web (www.gatein.org/exo.portal.parent/exo.portal.portlet/exo.portal.portlet.web/)
+      Artifact: org.gatein.portal:exo.portal.portlet.web:war:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Web Resources (www.gatein.org/exo.portal.parent/exo.portal.web/exo.portal.web.eXoResources/)
+      Artifact: org.gatein.portal:exo.portal.web.eXoResources:war:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Web Module (www.gatein.org/exo.portal.parent/exo.portal.web/exo.portal.web.portal/)
+      Artifact: org.gatein.portal:exo.portal.web.portal:war:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Web REST application (www.gatein.org/exo.portal.parent/exo.portal.web/exo.portal.web.rest/)
+      Artifact: org.gatein.portal:exo.portal.web.rest:war:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal WebUI Core (www.gatein.org/exo.portal.parent/exo.portal.webui/exo.portal.webui.core/)
+      Artifact: org.gatein.portal:exo.portal.webui.core:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal WebUI Dashboard (www.gatein.org/exo.portal.parent/exo.portal.webui/exo.portal.webui.dashboard/)
+      Artifact: org.gatein.portal:exo.portal.webui.dashboard:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal WebUI eXo (www.gatein.org/exo.portal.parent/exo.portal.webui/exo.portal.webui.eXo/)
+      Artifact: org.gatein.portal:exo.portal.webui.eXo:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal WebUI Framework (www.gatein.org/exo.portal.parent/exo.portal.webui/exo.portal.webui.framework/)
+      Artifact: org.gatein.portal:exo.portal.webui.framework:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal WebUI Portal (www.gatein.org/exo.portal.parent/exo.portal.webui/exo.portal.webui.portal/)
+      Artifact: org.gatein.portal:exo.portal.webui.portal:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal WebUI Portlet (www.gatein.org/exo.portal.parent/exo.portal.webui/exo.portal.webui.portlet/)
+      Artifact: org.gatein.portal:exo.portal.webui.portlet:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn SSO - Agent (www.gatein.org/sso-parent/sso-agent/)
+      Artifact: org.gatein.sso:sso-agent:jar:1.4.5.Final
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn SSO - Portal integration (http://maven.apache.org)
+      Artifact: org.gatein.sso:sso-integration:jar:1.4.5.Final
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn - WCI Tomcat 7 compatibility component (www.gatein.org/wci-parent/wci-tomcat/wci-tomcat7/)
+      Artifact: org.gatein.wci:wci-tomcat7:jar:2.4.1.Final
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn - Web Container Integration component (wci) (www.gatein.org/wci-parent/wci-wci/)
+      Artifact: org.gatein.wci:wci-wci:jar:2.4.1.Final
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - GateIn Portal Device Detection and Redirection Component (www.gatein.org/exo.portal.parent/exo.portal.web/redirect/)
+      Artifact: org.gatein.web:redirect:jar:4.3.0-PLF
+      License: GNU Lesser General Public License (LGPL)  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - StAX Mapper (http://www.jboss.org/staxmapper)
+      Artifact: org.jboss:staxmapper:jar:1.1.0.Final
+      License: Public Domain 
+  - JBoss Logging 3 (http://www.jboss.org)
+      Artifact: org.jboss.logging:jboss-logging:jar:3.1.3.GA
+      License: Apache License, version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - JBoss Logging I18n Annotations (http://www.jboss.org/jboss-logging-tools-parent/jboss-logging-annotations)
+      Artifact: org.jboss.logging:jboss-logging-annotations:jar:1.2.0.Beta1
+      License: Public Domain  (http://repository.jboss.org/licenses/cc0-1.0.txt)
+
+This product includes/uses software developed by 'JBoss Inc.' (http://www.jboss.org)
+  - PicketLink IDM API (http://www.jboss.org/picketlink-idm-parent/picketlink-idm-api)
+      Artifact: org.picketlink.idm:picketlink-idm-api:jar:1.4.6.Final
+      License: lgpl  (http://repository.jboss.com/licenses/lgpl.txt)
+  - PicketLink IDM Cache (http://www.jboss.org/picketlink-idm-parent/picketlink-idm-cache)
+      Artifact: org.picketlink.idm:picketlink-idm-cache:jar:1.4.6.Final
+      License: lgpl  (http://repository.jboss.com/licenses/lgpl.txt)
+  - PicketLink IDM Common (http://www.jboss.org/picketlink-idm-parent/picketlink-idm-common)
+      Artifact: org.picketlink.idm:picketlink-idm-common:jar:1.4.6.Final
+      License: lgpl  (http://repository.jboss.com/licenses/lgpl.txt)
+  - PicketLink IDM Implementation (http://www.jboss.org/picketlink-idm-parent/picketlink-idm-core)
+      Artifact: org.picketlink.idm:picketlink-idm-core:jar:1.4.6.Final
+      License: lgpl  (http://repository.jboss.com/licenses/lgpl.txt)
+  - PicketLink IDM Hibernate (http://labs.jboss.org/portal/jbosssecurity/)
+      Artifact: org.picketlink.idm:picketlink-idm-hibernate:jar:1.4.6.Final
+      License: lgpl  (http://repository.jboss.com/licenses/lgpl.txt)
+  - PicketLink IDM LDAP (http://www.jboss.org/picketlink-idm-parent/picketlink-idm-ldap)
+      Artifact: org.picketlink.idm:picketlink-idm-ldap:jar:1.4.6.Final
+      License: lgpl  (http://repository.jboss.com/licenses/lgpl.txt)
+  - PicketLink IDM SPI (http://www.jboss.org/picketlink-idm-parent/picketlink-idm-spi)
+      Artifact: org.picketlink.idm:picketlink-idm-spi:jar:1.4.6.Final
+      License: lgpl  (http://repository.jboss.com/licenses/lgpl.txt)
+
+This product includes/uses software developed by 'JBoss, a division of Red Hat' (http://www.jboss.org)
+  - Infinispan JDBC CacheStore (http://www.infinispan.org/infinispan-cachestore-parent/infinispan-cachestore-jdbc)
+      Artifact: org.infinispan:infinispan-cachestore-jdbc:bundle:5.2.9.Final
+      License: GNU Lesser General Public License  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - Infinispan Core (http://www.infinispan.org/infinispan-core)
+      Artifact: org.infinispan:infinispan-core:bundle:5.2.9.Final
+      License: GNU Lesser General Public License  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - JGroups (http://www.jgroups.org)
+      Artifact: org.jgroups:jgroups:bundle:3.2.7.Final
+      License: GNU Lesser General Public License 2.1  (http://www.opensource.org/licenses/lgpl-2.1.php)
+
+This product includes/uses software developed by 'JBoss, a division of Red Hat, Inc.' (http://www.jboss.org)
+  - JBoss Common Classes (http://www.jboss.org/jboss-common)
+      Artifact: org.jboss:jboss-common-core:jar:2.2.22.GA
+      License: lgpl  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - JBoss Dynamic Model Representation (http://www.jboss.org/jboss-dmr)
+      Artifact: org.jboss:jboss-dmr:jar:1.1.1.Final
+      License: lgpl  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - JBoss Marshalling API (http://www.jboss.org/jboss-marshalling-parent/jboss-marshalling)
+      Artifact: org.jboss.marshalling:jboss-marshalling:jar:1.3.15.GA
+      License: lgpl  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+  - JBoss Marshalling River (http://www.jboss.org/jboss-marshalling-parent/jboss-marshalling-river)
+      Artifact: org.jboss.marshalling:jboss-marshalling-river:jar:1.3.15.GA
+      License: lgpl  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+
+This product includes/uses software developed by 'JDOM' (http://www.jdom.org)
+  - JDOM (http://www.jdom.org)
+      Artifact: org.jdom:jdom:jar:1.1.3
+      License: Similar to Apache License but with the acknowledgment clause removed  (https://raw.github.com/hunterhacker/jdom/master/LICENSE.txt)
+  - JDOM (http://www.jdom.org)
+      Artifact: org.jdom:jdom2:jar:2.0.5
+      License: Similar to Apache License but with the acknowledgment clause removed  (https://raw.github.com/hunterhacker/jdom/master/LICENSE.txt)
+
+This product includes/uses software developed by 'JFree.org' (http://www.jfree.org/)
+  - JCommon (http://www.jfree.org/jcommon/)
+      Artifact: org.jfree:jcommon:jar:1.0.17
+      License: GNU Lesser General Public Licence  (http://www.gnu.org/licenses/lgpl.txt)
+  - JFreeChart (http://www.jfree.org/jfreechart/)
+      Artifact: org.jfree:jfreechart:jar:1.0.14
+      License: GNU Lesser General Public Licence  (http://www.gnu.org/licenses/lgpl.txt)
+
+This product includes/uses software developed by 'jibx.org' (http://www.jibx.org)
+  - jibx-run - JiBX runtime (http://www.jibx.org/core-reactor/main-reactor/jibx-run)
+      Artifact: org.jibx:jibx-run:bundle:1.2.5
+      License: BSD  (http://jibx.sourceforge.net/jibx-license.html)
+
+This product includes/uses software developed by 'Joda.org' (http://www.joda.org)
+  - Joda time (http://joda-time.sourceforge.net)
+      Artifact: joda-time:joda-time:jar:1.6.2
+      License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software developed by 'JSON' (http://json.org/)
+  - JSON (JavaScript Object Notation) (http://www.json.org/java/index.html)
+      Artifact: org.json:json:jar:20070829
+
+
+This product includes/uses software developed by 'Json-lib' (http://json-lib.sourceforge.net)
+  - json-lib (http://json-lib.sourceforge.net)
+      Artifact: net.sf.json-lib:json-lib:jar:2.4
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software developed by 'Liquibase.org' (http://www.liquibase.org)
+  - Liquibase Core (http://www.liquibase.org/liquibase-core)
+      Artifact: org.liquibase:liquibase-core:jar:3.4.1
+      License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+This product includes/uses software developed by 'Medsea Business Solutions S.L.' (http://www.medsea.eu)
+  - Mime Detection Utility (http://www.medsea.eu/mime-util/)
+      Artifact: eu.medsea.mimeutil:mime-util:bundle:2.1.3
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software developed by 'MetaStuff Ltd.' (http://sourceforge.net/projects/dom4j)
+  - dom4j (http://dom4j.org)
+      Artifact: dom4j:dom4j:jar:1.6.1
+
+
+This product includes/uses software developed by 'ObjectWeb' (http://www.objectweb.org/)
+  - ASM Core (http://asm.objectweb.org/asm/)
+      Artifact: asm:asm:jar:3.1
+
+  - ASM Debug All (http://asm.objectweb.org/asm-debug-all/)
+      Artifact: org.ow2.asm:asm-debug-all:jar:4.1
+      License: BSD  (http://asm.objectweb.org/license.html)
+
+This product includes/uses software developed by 'Odysseus Software GmbH' (http://www.odysseus.de/)
+  - Java Unified Expression Language Implementation (http://juel.sourceforge.net/juel-impl/)
+      Artifact: de.odysseus.juel:juel-impl:jar:2.2.3
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software developed by 'Oracle' (http://www.oracle.com)
+  - JavaMail API (compat) (http://kenai.com/projects/javamail/mail)
+      Artifact: javax.mail:mail:jar:1.4.7
+      License: CDDL  (http://www.sun.com/cddl)      License: GPLv2+CE  (https://glassfish.java.net/public/CDDL+GPL_1_1.html)
+
+This product includes/uses software developed by 'QOS.ch' (http://www.qos.ch)
+  - Logback Classic Module (http://logback.qos.ch)
+      Artifact: ch.qos.logback:logback-classic:jar:1.1.2
+      License: Eclipse Public License - v 1.0  (http://www.eclipse.org/legal/epl-v10.html)      License: GNU Lesser General Public License  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - Logback Core Module (http://logback.qos.ch)
+      Artifact: ch.qos.logback:logback-core:jar:1.1.2
+      License: Eclipse Public License - v 1.0  (http://www.eclipse.org/legal/epl-v10.html)      License: GNU Lesser General Public License  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - JCL 1.1.1 implemented over SLF4J (http://www.slf4j.org)
+      Artifact: org.slf4j:jcl-over-slf4j:jar:1.7.7
+      License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - JUL to SLF4J bridge (http://www.slf4j.org)
+      Artifact: org.slf4j:jul-to-slf4j:jar:1.7.7
+      License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - Log4j Implemented Over SLF4J (http://www.slf4j.org)
+      Artifact: org.slf4j:log4j-over-slf4j:jar:1.7.7
+      License: Apache Software Licenses  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - SLF4J API Module (http://www.slf4j.org)
+      Artifact: org.slf4j:slf4j-api:jar:1.7.7
+      License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
+This product includes/uses software developed by 'Seam Framework' (http://seamframework.org)
+  - CDI APIs (http://www.seamframework.org/Weld)
+      Artifact: javax.enterprise:cdi-api:jar:1.0-SP4
+      License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+This product includes/uses software developed by 'sourceforge' (http://sourceforge.net)
+  - JTidy (http://jtidy.sourceforge.net)
+      Artifact: net.sf.jtidy:jtidy:jar:r938
+      License: Java HTML Tidy License  (http://jtidy.svn.sourceforge.net/viewvc/jtidy/trunk/jtidy/LICENSE.txt?revision=95)
+
+This product includes/uses software developed by 'Sun Microsystems' (http://java.sun.com/)
+  - ROME, RSS and atOM utilitiEs for Java (https://rome.dev.java.net/)
+      Artifact: rome:rome:jar:1.0
+
+
+This product includes/uses software developed by 'Sun Microsystems, Inc' (http://www.sun.com/)
+  - JAX-RS API 
+      Artifact: javax.ws.rs:jsr311-api:jar:1.0
+      License: COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0  (http://www.opensource.org/licenses/cddl1.php)
+
+This product includes/uses software developed by 'Temple of the Screaming Penguin' (http://www.screaming-penguin.com)
+  - iTunes ROME Plug In (http://feedpod.dev.java.net)
+      Artifact: com.totsp.feedpod:itunes-com-podcast:jar:0.2
+
+
+This product includes/uses software developed by 'Terracotta, Inc.' (www.terracotta.org)
+  - Ehcache Core (http://ehcache.org)
+      Artifact: net.sf.ehcache:ehcache-core:jar:2.2.0
+      License: The Apache Software License, Version 2.0  (src/assemble/LICENSE.txt)
+
+This product includes/uses software developed by 'The Apache Software Foundation' (http://jakarta.apache.org)
+  - Betwixt (http://jakarta.apache.org/commons/betwixt/)
+      Artifact: commons-betwixt:commons-betwixt:jar:0.8
+      License: The Apache Software License, Version 2.0  (/LICENSE.txt)
+
+This product includes/uses software developed by 'The Apache Software Foundation' (http://pdfbox.apache.org)
+  - Apache FontBox (http://pdfbox.apache.org/)
+      Artifact: org.apache.pdfbox:fontbox:bundle:1.7.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache JempBox (http://www.apache.org/pdfbox-parent/jempbox/)
+      Artifact: org.apache.pdfbox:jempbox:bundle:1.7.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache PDFBox (http://www.apache.org/pdfbox-parent/pdfbox/)
+      Artifact: org.apache.pdfbox:pdfbox:bundle:1.7.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software developed by 'The Apache Software Foundation' (http://www.apache.org)
+  - Apache Tika core (http://tika.apache.org/)
+      Artifact: org.apache.tika:tika-core:bundle:1.5
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tika parsers (http://tika.apache.org/)
+      Artifact: org.apache.tika:tika-parsers:bundle:1.5
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software developed by 'The Apache Software Foundation' (http://www.apache.org/)
+  - Commons BeanUtils (http://commons.apache.org/beanutils/)
+      Artifact: commons-beanutils:commons-beanutils:jar:1.8.3
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Chain (http://commons.apache.org/chain/)
+      Artifact: commons-chain:commons-chain:jar:1.2
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Codec (http://commons.apache.org/codec/)
+      Artifact: commons-codec:commons-codec:jar:1.4
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Collections (http://commons.apache.org/collections/)
+      Artifact: commons-collections:commons-collections:jar:3.2.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Configuration (http://commons.apache.org/configuration/)
+      Artifact: commons-configuration:commons-configuration:jar:1.10
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons DBCP (http://commons.apache.org/dbcp/)
+      Artifact: commons-dbcp:commons-dbcp:jar:1.4
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Digester (http://commons.apache.org/digester/)
+      Artifact: commons-digester:commons-digester:jar:2.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons FileUpload (http://commons.apache.org/proper/commons-fileupload/)
+      Artifact: commons-fileupload:commons-fileupload:jar:1.3.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons IO (http://commons.apache.org/io/)
+      Artifact: commons-io:commons-io:jar:2.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Lang (http://commons.apache.org/lang/)
+      Artifact: commons-lang:commons-lang:jar:2.6
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Pool (http://commons.apache.org/pool/)
+      Artifact: commons-pool:commons-pool:jar:1.6
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Compress (http://commons.apache.org/compress/)
+      Artifact: org.apache.commons:commons-compress:jar:1.5
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Lang (http://commons.apache.org/proper/commons-lang/)
+      Artifact: org.apache.commons:commons-lang3:jar:3.2
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpClient (http://hc.apache.org/httpcomponents-client)
+      Artifact: org.apache.httpcomponents:httpclient:jar:4.3.6
+      License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpCore (http://hc.apache.org/httpcomponents-core-ga)
+      Artifact: org.apache.httpcomponents:httpcore:jar:4.3.3
+      License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackrabbit JCR Commons (http://jackrabbit.apache.org/jackrabbit-parent/jackrabbit-jcr-commons/)
+      Artifact: org.apache.jackrabbit:jackrabbit-jcr-commons:bundle:1.6.5
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackrabbit WebDAV Library (http://jackrabbit.apache.org/jackrabbit-parent/jackrabbit-webdav/)
+      Artifact: org.apache.jackrabbit:jackrabbit-webdav:jar:1.6.5
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache JAMES Mime4j (Core) (http://james.apache.org/mime4j/apache-mime4j-core)
+      Artifact: org.apache.james:apache-mime4j-core:jar:0.7.2
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache JAMES Mime4j (DOM) (http://james.apache.org/mime4j/apache-mime4j-dom)
+      Artifact: org.apache.james:apache-mime4j-dom:jar:0.7.2
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Lucene Common Analyzers (http://lucene.apache.org/java/lucene-parent/lucene-analyzers)
+      Artifact: org.apache.lucene:lucene-analyzers:jar:3.6.2
+      License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Lucene Core (http://lucene.apache.org/java/lucene-parent/lucene-core)
+      Artifact: org.apache.lucene:lucene-core:jar:3.6.2
+      License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Lucene Spellchecker (http://lucene.apache.org/java/lucene-parent/lucene-spellchecker)
+      Artifact: org.apache.lucene:lucene-spellchecker:jar:3.6.2
+      License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Velocity (http://velocity.apache.org/engine/devel/)
+      Artifact: org.apache.velocity:velocity:jar:1.7
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Shindig Common Code (http://shindig.apache.org/shindig-common)
+      Artifact: org.gatein.shindig:shindig-common:jar:2.0.2.Final-gatein-4
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Shindig Features (http://shindig.apache.org/shindig-features)
+      Artifact: org.gatein.shindig:shindig-features:jar:2.0.2.Final-gatein-4
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Shindig Gadget Renderer (http://shindig.apache.org/shindig-gadgets)
+      Artifact: org.gatein.shindig:shindig-gadgets:jar:2.0.2.Final-gatein-4
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Shindig Social API (http://shindig.apache.org/shindig-social-api)
+      Artifact: org.gatein.shindig:shindig-social-api:jar:2.0.2.Final-gatein-4
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Xalan Java Serializer (http://xml.apache.org/xalan-j/)
+      Artifact: xalan:serializer:jar:2.7.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Xalan Java (http://xml.apache.org/xalan-j/)
+      Artifact: xalan:xalan:jar:2.7.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Xerces2 Java Parser (http://xerces.apache.org/xerces2-j)
+      Artifact: xerces:xercesImpl:jar:2.9.1
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software developed by 'The Buzz Media, LLC' (http://www.thebuzzmedia.com/software)
+  - imgscalr - A Java Image Scaling Library (http://www.thebuzzmedia.com/software/imgscalr-java-image-scaling-library/)
+      Artifact: org.imgscalr:imgscalr-lib:jar:4.2
+      License: ASF 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software developed by 'The Codehaus' (http://codehaus.org)
+  - Groovy (http://groovy.codehaus.org/)
+      Artifact: org.codehaus.groovy:groovy-all:jar:1.8.9
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software developed by 'The HSQL Development Group' (http://hsqldb.org)
+  - HyperSQL Database (http://hsqldb.org)
+      Artifact: org.hsqldb:hsqldb:jar:2.3.3
+      License: HSQLDB License, a BSD open source license  (http://hsqldb.org/web/hsqlLicense.html)
+
+This product includes/uses software developed by 'The JEuclid project' (http://jeuclid.sourceforge.net/)
+  - JEuclid Core Module (http://jeuclid.sourceforge.net/jeuclid-core)
+      Artifact: net.sourceforge.jeuclid:jeuclid-core:jar:3.1.5
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software developed by 'The Mozilla Foundation' (http://www.mozilla.org)
+  - Mozilla Rhino (http://www.mozilla.org/rhino/)
+      Artifact: org.mozilla:rhino:jar:1.7R3
+      License: Mozilla Public License, Version 1.1  (http://www.mozilla.org/MPL/MPL-1.1.txt)      License: GNU General Public License, Version 2  (http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt)
+
+This product includes/uses software developed by 'The Open Web Application Security Project (OWASP)' (http://www.owasp.org/)
+  - OWASP AntiSamy (http://www.owasp.org/index.php/Category:OWASP_AntiSamy_Project/antisamy)
+      Artifact: org.owasp.antisamy:antisamy:jar:1.4.5
+      License: BSD License  (http://www.opensource.org/licenses/bsd-license.php)
+
+This product includes/uses software developed by 'The University of Edinburgh' (http://www.ed.ac.uk)
+  - SnuggleTeX Core (http://snuggletex.sourceforge.net/snuggletex-core)
+      Artifact: uk.ac.ed.ph.snuggletex:snuggletex-core:jar:1.1.0
+      License: BSD License (3 clause)  (LICENSE.txt)
+  - SnuggleTeX JEuclid Extensions (http://snuggletex.sourceforge.net/snuggletex-jeuclid)
+      Artifact: uk.ac.ed.ph.snuggletex:snuggletex-jeuclid:jar:1.1.0
+      License: BSD License (3 clause)  (LICENSE.txt)
+
+This product includes/uses software developed by 'Uwyn' (http://uwyn.com/)
+  - JHighlight (https://jhighlight.dev.java.net/)
+      Artifact: com.uwyn:jhighlight:jar:1.0
+      License: CDDL, v1.0  (http://www.opensource.org/licenses/cddl1.php)      License: LGPL, v2.1 or later  (http://www.opensource.org/licenses/lgpl-license.php)
+
+This product includes/uses software developed by 'Validator.nu' (http://validator.nu)
+  - HtmlParser (http://code.google.com/p/google-caja)
+      Artifact: caja:htmlparser:jar:r4209
+      License: No Warranty 
+
+This product includes/uses software developed by 'Webtide' (http://webtide.com)
+  - Jetty :: Asynchronous HTTP Client (http://www.eclipse.org/jetty)
+      Artifact: org.eclipse.jetty:jetty-client:jar:9.2.12.v20150709
+      License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)      License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Http Utility (http://www.eclipse.org/jetty)
+      Artifact: org.eclipse.jetty:jetty-http:jar:9.2.12.v20150709
+      License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)      License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: IO Utility (http://www.eclipse.org/jetty)
+      Artifact: org.eclipse.jetty:jetty-io:jar:9.2.12.v20150709
+      License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)      License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: JMX Management (http://www.eclipse.org/jetty)
+      Artifact: org.eclipse.jetty:jetty-jmx:jar:9.2.12.v20150709
+      License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)      License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Utilities (http://www.eclipse.org/jetty)
+      Artifact: org.eclipse.jetty:jetty-util:jar:9.2.12.v20150709
+      License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)      License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Utilities :: Ajax(JSON) (http://www.eclipse.org/jetty)
+      Artifact: org.eclipse.jetty:jetty-util-ajax:jar:9.2.12.v20150709
+      License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)      License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+
+This product includes/uses software developed by 'World Wide Web Consortium' (http://www.w3.org/)
+  - Simple API for CSS (http://www.w3.org/Style/CSS/SAC/)
+      Artifact: org.w3c.css:sac:jar:1.3
+      License: The W3C Software License  (http://www.w3.org/Consortium/Legal/copyright-software-19980720)
+
+This product includes/uses software developed by 'XmlBeans' (http://xmlbeans.apache.org/)
+  - XmlBeans (http://xmlbeans.apache.org)
+      Artifact: org.apache.xmlbeans:xmlbeans:jar:2.6.0
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software developed by 'XStream' (http://xstream.codehaus.org)
+  - XStream Core 
+      Artifact: com.thoughtworks.xstream:xstream:jar:1.3.1
+      License: BSD style  (http://xstream.codehaus.com/license.html)
+
+This product includes/uses software developed by 'XWiki' (http://xwiki.org/)
+  - XWiki Commons - Component - API (http://extensions.xwiki.org?id=org.xwiki.commons:xwiki-commons-component-api:::/xwiki-commons-pom/xwiki-commons-core/xwiki-commons-component/xwiki-commons-component-api)
+      Artifact: org.xwiki.commons:xwiki-commons-component-api:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Commons - Component - Default Implementation (http://extensions.xwiki.org?id=org.xwiki.commons:xwiki-commons-component-default:::/xwiki-commons-pom/xwiki-commons-core/xwiki-commons-component/xwiki-commons-component-default)
+      Artifact: org.xwiki.commons:xwiki-commons-component-default:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Commons - Configuration - API (http://extensions.xwiki.org?id=org.xwiki.commons:xwiki-commons-configuration-api:::/xwiki-commons-pom/xwiki-commons-core/xwiki-commons-configuration/xwiki-commons-configuration-api)
+      Artifact: org.xwiki.commons:xwiki-commons-configuration-api:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Commons - Context (http://extensions.xwiki.org?id=org.xwiki.commons:xwiki-commons-context:::/xwiki-commons-pom/xwiki-commons-core/xwiki-commons-context)
+      Artifact: org.xwiki.commons:xwiki-commons-context:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Commons - Environment - API (http://extensions.xwiki.org?id=org.xwiki.commons:xwiki-commons-environment-api:::/xwiki-commons-pom/xwiki-commons-core/xwiki-commons-environment/xwiki-commons-environment-api)
+      Artifact: org.xwiki.commons:xwiki-commons-environment-api:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Commons - Environment - Common (http://extensions.xwiki.org?id=org.xwiki.commons:xwiki-commons-environment-common:::/xwiki-commons-pom/xwiki-commons-core/xwiki-commons-environment/xwiki-commons-environment-common)
+      Artifact: org.xwiki.commons:xwiki-commons-environment-common:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Commons - Environment - Standard (http://extensions.xwiki.org?id=org.xwiki.commons:xwiki-commons-environment-standard:::/xwiki-commons-pom/xwiki-commons-core/xwiki-commons-environment/xwiki-commons-environment-standard)
+      Artifact: org.xwiki.commons:xwiki-commons-environment-standard:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Commons - Filter - API (http://extensions.xwiki.org?id=org.xwiki.commons:xwiki-commons-filter-api:::/xwiki-commons-pom/xwiki-commons-core/xwiki-commons-filter/xwiki-commons-filter-api)
+      Artifact: org.xwiki.commons:xwiki-commons-filter-api:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Commons - Management (http://extensions.xwiki.org?id=org.xwiki.commons:xwiki-commons-management:::/xwiki-commons-pom/xwiki-commons-core/xwiki-commons-management)
+      Artifact: org.xwiki.commons:xwiki-commons-management:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Commons - Observation - API (http://extensions.xwiki.org?id=org.xwiki.commons:xwiki-commons-observation-api:::/xwiki-commons-pom/xwiki-commons-core/xwiki-commons-observation/xwiki-commons-observation-api)
+      Artifact: org.xwiki.commons:xwiki-commons-observation-api:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Commons - Properties (http://extensions.xwiki.org?id=org.xwiki.commons:xwiki-commons-properties:::/xwiki-commons-pom/xwiki-commons-core/xwiki-commons-properties)
+      Artifact: org.xwiki.commons:xwiki-commons-properties:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Commons - Script (http://extensions.xwiki.org?id=org.xwiki.commons:xwiki-commons-script:::/xwiki-commons-pom/xwiki-commons-core/xwiki-commons-script)
+      Artifact: org.xwiki.commons:xwiki-commons-script:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Commons - Stability (http://extensions.xwiki.org?id=org.xwiki.commons:xwiki-commons-stability:::/xwiki-commons-pom/xwiki-commons-core/xwiki-commons-stability)
+      Artifact: org.xwiki.commons:xwiki-commons-stability:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Commons - Text (http://extensions.xwiki.org?id=org.xwiki.commons:xwiki-commons-text:::/xwiki-commons-pom/xwiki-commons-core/xwiki-commons-text)
+      Artifact: org.xwiki.commons:xwiki-commons-text:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Commons - Velocity (http://extensions.xwiki.org?id=org.xwiki.commons:xwiki-commons-velocity:::/xwiki-commons-pom/xwiki-commons-core/xwiki-commons-velocity)
+      Artifact: org.xwiki.commons:xwiki-commons-velocity:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Commons - XML (http://extensions.xwiki.org?id=org.xwiki.commons:xwiki-commons-xml:::/xwiki-commons-pom/xwiki-commons-core/xwiki-commons-xml)
+      Artifact: org.xwiki.commons:xwiki-commons-xml:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Platform - Bridge (http://extensions.xwiki.org?id=org.xwiki.platform:xwiki-platform-bridge:::/xwiki-commons-pom/xwiki-platform/xwiki-platform-core/xwiki-platform-bridge)
+      Artifact: org.xwiki.platform:xwiki-platform-bridge:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Platform - Cache - API (http://extensions.xwiki.org?id=org.xwiki.platform:xwiki-platform-cache-api:::/xwiki-commons-pom/xwiki-platform/xwiki-platform-core/xwiki-platform-cache/xwiki-platform-cache-api)
+      Artifact: org.xwiki.platform:xwiki-platform-cache-api:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Platform - Cache - Infinispan (http://extensions.xwiki.org?id=org.xwiki.platform:xwiki-platform-cache-infinispan:::/xwiki-commons-pom/xwiki-platform/xwiki-platform-core/xwiki-platform-cache/xwiki-platform-cache-infinispan)
+      Artifact: org.xwiki.platform:xwiki-platform-cache-infinispan:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Platform - Chart - Macro (http://extensions.xwiki.org?id=org.xwiki.platform:xwiki-platform-chart-macro:::/xwiki-commons-pom/xwiki-platform/xwiki-platform-core/xwiki-platform-rendering/xwiki-platform-rendering-macros/xwiki-platform-chart-macro)
+      Artifact: org.xwiki.platform:xwiki-platform-chart-macro:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Platform - Chart - Rendering (http://extensions.xwiki.org?id=org.xwiki.platform:xwiki-platform-chart-renderer:::/xwiki-commons-pom/xwiki-platform/xwiki-platform-core/xwiki-platform-chart/xwiki-platform-chart-renderer)
+      Artifact: org.xwiki.platform:xwiki-platform-chart-renderer:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Platform - Configuration - Default (http://extensions.xwiki.org?id=org.xwiki.platform:xwiki-platform-configuration-default:::/xwiki-commons-pom/xwiki-platform/xwiki-platform-core/xwiki-platform-configuration/xwiki-platform-configuration-default)
+      Artifact: org.xwiki.platform:xwiki-platform-configuration-default:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Platform - Display - API (http://extensions.xwiki.org?id=org.xwiki.platform:xwiki-platform-display-api:::/xwiki-commons-pom/xwiki-platform/xwiki-platform-core/xwiki-platform-display/xwiki-platform-display-api)
+      Artifact: org.xwiki.platform:xwiki-platform-display-api:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Platform - Formula - Macro (http://extensions.xwiki.org?id=org.xwiki.platform:xwiki-platform-formula-macro:::/xwiki-commons-pom/xwiki-platform/xwiki-platform-core/xwiki-platform-rendering/xwiki-platform-rendering-macros/xwiki-platform-formula-macro)
+      Artifact: org.xwiki.platform:xwiki-platform-formula-macro:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Platform - Formula - Renderer (http://extensions.xwiki.org?id=org.xwiki.platform:xwiki-platform-formula-renderer:::/xwiki-commons-pom/xwiki-platform/xwiki-platform-core/xwiki-platform-formula/xwiki-platform-formula-renderer)
+      Artifact: org.xwiki.platform:xwiki-platform-formula-renderer:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Platform - GWT - DOM API (http://extensions.xwiki.org?id=org.xwiki.platform:xwiki-platform-gwt-dom:::/xwiki-commons-pom/xwiki-platform/xwiki-platform-core/xwiki-platform-gwt/xwiki-platform-gwt-dom)
+      Artifact: org.xwiki.platform:xwiki-platform-gwt-dom:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Platform - GWT - User (http://extensions.xwiki.org?id=org.xwiki.platform:xwiki-platform-gwt-user:::/xwiki-commons-pom/xwiki-platform/xwiki-platform-core/xwiki-platform-gwt/xwiki-platform-gwt-user)
+      Artifact: org.xwiki.platform:xwiki-platform-gwt-user:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Platform - Model (http://extensions.xwiki.org?id=org.xwiki.platform:xwiki-platform-model:::/xwiki-commons-pom/xwiki-platform/xwiki-platform-core/xwiki-platform-model)
+      Artifact: org.xwiki.platform:xwiki-platform-model:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Platform - Rendering - Macro - Code (http://extensions.xwiki.org?id=org.xwiki.platform:xwiki-platform-rendering-macro-code:::/xwiki-commons-pom/xwiki-platform/xwiki-platform-core/xwiki-platform-rendering/xwiki-platform-rendering-macros/xwiki-platform-rendering-macro-code)
+      Artifact: org.xwiki.platform:xwiki-platform-rendering-macro-code:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Platform - Rendering - Macro - RSS (http://extensions.xwiki.org?id=org.xwiki.platform:xwiki-platform-rendering-macro-rss:::/xwiki-commons-pom/xwiki-platform/xwiki-platform-core/xwiki-platform-rendering/xwiki-platform-rendering-macros/xwiki-platform-rendering-macro-rss)
+      Artifact: org.xwiki.platform:xwiki-platform-rendering-macro-rss:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Platform - Rendering - Transformations - Macro (http://extensions.xwiki.org?id=org.xwiki.platform:xwiki-platform-rendering-transformation-macro:::/xwiki-commons-pom/xwiki-platform/xwiki-platform-core/xwiki-platform-rendering/xwiki-platform-rendering-transformations/xwiki-platform-rendering-transformation-macro)
+      Artifact: org.xwiki.platform:xwiki-platform-rendering-transformation-macro:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Platform - Security - API (http://extensions.xwiki.org?id=org.xwiki.platform:xwiki-platform-security-api:::/xwiki-commons-pom/xwiki-platform/xwiki-platform-core/xwiki-platform-security/xwiki-platform-security-api)
+      Artifact: org.xwiki.platform:xwiki-platform-security-api:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Platform - WYSIWYG Editor - Client Side (http://extensions.xwiki.org?id=org.xwiki.platform:xwiki-platform-wysiwyg-client:::/xwiki-commons-pom/xwiki-platform/xwiki-platform-core/xwiki-platform-wysiwyg/xwiki-platform-wysiwyg-client)
+      Artifact: org.xwiki.platform:xwiki-platform-wysiwyg-client:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Platform - WYSIWYG Editor - Plugin API (http://extensions.xwiki.org?id=org.xwiki.platform:xwiki-platform-wysiwyg-plugin-api:::/xwiki-commons-pom/xwiki-platform/xwiki-platform-core/xwiki-platform-wysiwyg/xwiki-platform-wysiwyg-plugin-api)
+      Artifact: org.xwiki.platform:xwiki-platform-wysiwyg-plugin-api:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Rendering - Api (http://extensions.xwiki.org?id=org.xwiki.rendering:xwiki-rendering-api:::/xwiki-commons-pom/xwiki-rendering/xwiki-rendering-api)
+      Artifact: org.xwiki.rendering:xwiki-rendering-api:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Rendering - Macro - Box (http://extensions.xwiki.org?id=org.xwiki.rendering:xwiki-rendering-macro-box:::/xwiki-commons-pom/xwiki-rendering/xwiki-rendering-macros/xwiki-rendering-macro-box)
+      Artifact: org.xwiki.rendering:xwiki-rendering-macro-box:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Rendering - Macro - Footnotes (http://extensions.xwiki.org?id=org.xwiki.rendering:xwiki-rendering-macro-footnotes:::/xwiki-commons-pom/xwiki-rendering/xwiki-rendering-macros/xwiki-rendering-macro-footnotes)
+      Artifact: org.xwiki.rendering:xwiki-rendering-macro-footnotes:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Rendering - Macro - HTML (http://extensions.xwiki.org?id=org.xwiki.rendering:xwiki-rendering-macro-html:::/xwiki-commons-pom/xwiki-rendering/xwiki-rendering-macros/xwiki-rendering-macro-html)
+      Artifact: org.xwiki.rendering:xwiki-rendering-macro-html:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Rendering - Macro - JIRA (http://extensions.xwiki.org?id=org.xwiki.rendering:xwiki-rendering-macro-jira:::/xwiki-commons-pom/xwiki-rendering/xwiki-rendering-macros/xwiki-rendering-macro-jira)
+      Artifact: org.xwiki.rendering:xwiki-rendering-macro-jira:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Rendering - Macro - Message (http://extensions.xwiki.org?id=org.xwiki.rendering:xwiki-rendering-macro-message:::/xwiki-commons-pom/xwiki-rendering/xwiki-rendering-macros/xwiki-rendering-macro-message)
+      Artifact: org.xwiki.rendering:xwiki-rendering-macro-message:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Rendering - Macro - Toc (http://extensions.xwiki.org?id=org.xwiki.rendering:xwiki-rendering-macro-toc:::/xwiki-commons-pom/xwiki-rendering/xwiki-rendering-macros/xwiki-rendering-macro-toc)
+      Artifact: org.xwiki.rendering:xwiki-rendering-macro-toc:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Rendering - Syntax - Annotated XHTML (http://extensions.xwiki.org?id=org.xwiki.rendering:xwiki-rendering-syntax-annotatedxhtml:::/xwiki-commons-pom/xwiki-rendering/xwiki-rendering-syntaxes/xwiki-rendering-syntax-annotatedxhtml)
+      Artifact: org.xwiki.rendering:xwiki-rendering-syntax-annotatedxhtml:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Rendering - Syntax - Confluence (http://extensions.xwiki.org?id=org.xwiki.rendering:xwiki-rendering-syntax-confluence:::/xwiki-commons-pom/xwiki-rendering/xwiki-rendering-syntaxes/xwiki-rendering-syntax-confluence)
+      Artifact: org.xwiki.rendering:xwiki-rendering-syntax-confluence:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Rendering - Syntax - Plain (http://extensions.xwiki.org?id=org.xwiki.rendering:xwiki-rendering-syntax-plain:::/xwiki-commons-pom/xwiki-rendering/xwiki-rendering-syntaxes/xwiki-rendering-syntax-plain)
+      Artifact: org.xwiki.rendering:xwiki-rendering-syntax-plain:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Rendering - Syntax - WikiModel Bridge (http://extensions.xwiki.org?id=org.xwiki.rendering:xwiki-rendering-syntax-wikimodel:::/xwiki-commons-pom/xwiki-rendering/xwiki-rendering-syntaxes/xwiki-rendering-syntax-wikimodel)
+      Artifact: org.xwiki.rendering:xwiki-rendering-syntax-wikimodel:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Rendering - Syntax - XHTML (http://extensions.xwiki.org?id=org.xwiki.rendering:xwiki-rendering-syntax-xhtml:::/xwiki-commons-pom/xwiki-rendering/xwiki-rendering-syntaxes/xwiki-rendering-syntax-xhtml)
+      Artifact: org.xwiki.rendering:xwiki-rendering-syntax-xhtml:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Rendering - Syntax - XWiki 2.0 (http://extensions.xwiki.org?id=org.xwiki.rendering:xwiki-rendering-syntax-xwiki20:::/xwiki-commons-pom/xwiki-rendering/xwiki-rendering-syntaxes/xwiki-rendering-syntax-xwiki20)
+      Artifact: org.xwiki.rendering:xwiki-rendering-syntax-xwiki20:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Rendering - Syntax - XWiki 2.1 (http://extensions.xwiki.org?id=org.xwiki.rendering:xwiki-rendering-syntax-xwiki21:::/xwiki-commons-pom/xwiki-rendering/xwiki-rendering-syntaxes/xwiki-rendering-syntax-xwiki21)
+      Artifact: org.xwiki.rendering:xwiki-rendering-syntax-xwiki21:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Rendering - Transformation - Icon (http://extensions.xwiki.org?id=org.xwiki.rendering:xwiki-rendering-transformation-icon:::/xwiki-commons-pom/xwiki-rendering/xwiki-rendering-transformations/xwiki-rendering-transformation-icon)
+      Artifact: org.xwiki.rendering:xwiki-rendering-transformation-icon:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Rendering - Transformation - Macro (http://extensions.xwiki.org?id=org.xwiki.rendering:xwiki-rendering-transformation-macro:::/xwiki-commons-pom/xwiki-rendering/xwiki-rendering-transformations/xwiki-rendering-transformation-macro)
+      Artifact: org.xwiki.rendering:xwiki-rendering-transformation-macro:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Rendering - WikiModel (http://extensions.xwiki.org?id=org.xwiki.rendering:xwiki-rendering-wikimodel:::/xwiki-commons-pom/xwiki-rendering/xwiki-rendering-wikimodel)
+      Artifact: org.xwiki.rendering:xwiki-rendering-wikimodel:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - XWiki Rendering - XML (http://extensions.xwiki.org?id=org.xwiki.rendering:xwiki-rendering-xml:::/xwiki-commons-pom/xwiki-rendering/xwiki-rendering-xml)
+      Artifact: org.xwiki.rendering:xwiki-rendering-xml:jar:5.4.2
+      License: LGPL 2.1  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+
+
+
